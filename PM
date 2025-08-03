@@ -31,6 +31,7 @@
       "canViewPlayerNameOverlay": true,
       "canUseReportClicking": true,
       "customMessage": "Owner"
+    }
   },
   "defaultPermissions": {
     "canUseBasicFeatures": true,

@@ -1,0 +1,50 @@
+{
+  "bannedUsers": [
+  ],
+  "userPermissions": {
+    "qReality_": {
+      "canUseBasicFeatures": true,
+      "canToggleMod": true,
+      "canAccessSettings": true,
+      "canUseInteractionWheel": true,
+      "canUseDebugMode": false,
+      "canUseChatFlagging": false,
+      "canUseAutoMute": false,
+      "canUseWatchList": true,
+      "canUseAutoLeave": true,
+      "canViewSuspectOverlay": true,
+      "canViewPlayerNameOverlay": true,
+      "canUseReportClicking": true,
+      "customMessage": "Nuh uh"
+    },
+    "xBlury": {
+      "canUseBasicFeatures": true,
+      "canToggleMod": true,
+      "canAccessSettings": true,
+      "canUseInteractionWheel": true,
+      "canUseDebugMode": true,
+      "canUseChatFlagging": true,
+      "canUseAutoMute": true,
+      "canUseWatchList": true,
+      "canUseAutoLeave": true,
+      "canViewSuspectOverlay": true,
+      "canViewPlayerNameOverlay": true,
+      "canUseReportClicking": true,
+      "customMessage": "Owner"
+  },
+  "defaultPermissions": {
+    "canUseBasicFeatures": true,
+    "canToggleMod": true,
+    "canAccessSettings": false,
+    "canUseInteractionWheel": true,
+    "canUseDebugMode": false,
+    "canUseChatFlagging": false,
+    "canUseAutoMute": false,
+    "canUseWatchList": false,
+    "canUseAutoLeave": false,
+    "canViewSuspectOverlay": true,
+    "canViewPlayerNameOverlay": false,
+    "canUseReportClicking": false,
+    "customMessage": "Standard access."
+  }
+}

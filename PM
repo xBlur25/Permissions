@@ -17,7 +17,7 @@
       "canUseReportClicking": true,
       "customMessage": "Nuh uh"
     },
-    "xBlur": {
+    "xBlury": {
       "canUseBasicFeatures": true,
       "canToggleMod": true,
       "canAccessSettings": true,

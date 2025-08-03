@@ -15,7 +15,7 @@
       "canViewSuspectOverlay": true,
       "canViewPlayerNameOverlay": true,
       "canUseReportClicking": true,
-      "customMessage": "Nuh uh"
+      "customMessage": ""
     },
     "xBlury": {
       "canUseBasicFeatures": true,
@@ -30,7 +30,7 @@
       "canViewSuspectOverlay": true,
       "canViewPlayerNameOverlay": true,
       "canUseReportClicking": true,
-      "customMessage": "Owner"
+      "customMessage": ""
     }
   },
   "defaultPermissions": {
@@ -46,6 +46,6 @@
     "canViewSuspectOverlay": true,
     "canViewPlayerNameOverlay": false,
     "canUseReportClicking": false,
-    "customMessage": "Standard access."
+    "customMessage": ""
   }
 }

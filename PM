@@ -1,6 +1,5 @@
 {
-  "bannedUsers": [
-  ],
+  "bannedUsers": [],
   "userPermissions": {
     "qReality_": {
       "canUseBasicFeatures": true,
@@ -15,6 +14,7 @@
       "canViewSuspectOverlay": true,
       "canViewPlayerNameOverlay": true,
       "canUseReportClicking": true,
+      "canUseScanCommand": true,
       "customMessage": ""
     },
     "xBlury": {
@@ -30,6 +30,7 @@
       "canViewSuspectOverlay": true,
       "canViewPlayerNameOverlay": true,
       "canUseReportClicking": true,
+      "canUseScanCommand": true,
       "customMessage": ""
     }
   },
@@ -46,6 +47,7 @@
     "canViewSuspectOverlay": true,
     "canViewPlayerNameOverlay": false,
     "canUseReportClicking": false,
+    "canUseScanCommand": false,
     "customMessage": ""
   }
 }

@@ -1,7 +1,7 @@
 {
   "bannedUsers": [],
   "userPermissions": {
-    "qReality_": {
+    "ICantDaoTelly": {
       "canUseBasicFeatures": true,
       "canToggleMod": true,
       "canAccessSettings": true,
